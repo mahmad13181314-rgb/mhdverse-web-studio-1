@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>mhdverse web studio | Custom Website Development</title>
+
+    <meta
+        name="description"
+        content="mhdverse web studio creates professional, responsive and custom websites for businesses, portfolios and personal brands."
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <div class="container nav-content">
+
+            <a href="#home" class="logo">
+                mhdverse<span> web studio</span>
+            </a>
+
+            <nav>
+                <a href="#services">Services</a>
+                <a href="#process">Process</a>
+                <a href="#contact">Contact</a>
+            </nav>
+
+        </div>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+
+        <div class="container hero-content">
+
+            <div class="hero-text">
+
+                <p class="tag">CUSTOM WEBSITE DEVELOPMENT</p>
+
+                <h1>
+                    Websites that make your
+                    <span>business look professional.</span>
+                </h1>
+
+                <p class="hero-description">
+                    We create modern, responsive and customized websites
+                    for businesses, professionals, creators and personal brands.
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="#contact" class="btn primary">
+                        Start Your Project
+                    </a>
+
+                    <a href="tel:+916299649366" class="btn secondary">
+                        Call Now
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="hero-card">
+
+                <div class="card-top">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+                <div class="code-line large"></div>
+                <div class="code-line"></div>
+                <div class="code-line short"></div>
+
+                <div class="website-preview">
+                    <div class="preview-title"></div>
+                    <div class="preview-text"></div>
+
+                    <div class="preview-boxes">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- SERVICES -->
+    <section class="section" id="services">
+
+        <div class="container">
+
+            <div class="section-heading">
+                <p class="tag">WHAT WE DO</p>
+
+                <h2>Our Services</h2>
+
+                <p>
+                    Professional websites designed according to your
+                    requirements.
+                </p>
+            </div>
+
+
+            <div class="services-grid">
+
+                <div class="service-card">
+                    <div class="icon">01</div>
+                    <h3>Business Websites</h3>
+                    <p>
+                        Professional websites for businesses, shops,
+                        agencies and local services.
+                    </p>
+                </div>
+
+
+                <div class="service-card">
+                    <div class="icon">02</div>
+                    <h3>Portfolio Websites</h3>
+                    <p>
+                        Showcase your skills, work, projects and
+                        achievements with a professional portfolio.
+                    </p>
+                </div>
+
+
+                <div class="service-card">
+                    <div class="icon">03</div>
+                    <h3>Landing Pages</h3>
+                    <p>
+                        Clean and focused landing pages for products,
+                        services and campaigns.
+                    </p>
+                </div>
+
+
+                <div class="service-card">
+                    <div class="icon">04</div>
+                    <h3>Custom Websites</h3>
+                    <p>
+                        Completely customized websites built around
+                        your specific requirements.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- WHY US -->
+    <section class="section dark-section">
+
+        <div class="container">
+
+            <div class="section-heading light">
+
+                <p class="tag">WHY US</p>
+
+                <h2>Built around your requirements.</h2>
+
+                <p>
+                    We focus on clean design, responsive layouts and
+                    a professional online presence.
+                </p>
+
+            </div>
+
+
+            <div class="features">
+
+                <div>
+                    <strong>01</strong>
+                    <h3>Responsive</h3>
+                    <p>Works on mobile, tablet and laptop.</p>
+                </div>
+
+                <div>
+                    <strong>02</strong>
+                    <h3>Custom Design</h3>
+                    <p>Your website is designed according to your needs.</p>
+                </div>
+
+                <div>
+                    <strong>03</strong>
+                    <h3>Modern Look</h3>
+                    <p>Clean and professional visual experience.</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- PROCESS -->
+    <section class="section" id="process">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="tag">HOW IT WORKS</p>
+
+                <h2>Simple Process</h2>
+
+            </div>
+
+
+            <div class="process-grid">
+
+                <div class="process-card">
+                    <span>01</span>
+                    <h3>Tell us your idea</h3>
+                    <p>
+                        Contact us and explain what type of website
+                        you need.
+                    </p>
+                </div>
+
+
+                <div class="process-card">
+                    <span>02</span>
+                    <h3>We design</h3>
+                    <p>
+                        We create the website according to your
+                        requirements.
+                    </p>
+                </div>
+
+
+                <div class="process-card">
+                    <span>03</span>
+                    <h3>Review</h3>
+                    <p>
+                        You review the website and request changes
+                        if required.
+                    </p>
+                </div>
+
+
+                <div class="process-card">
+                    <span>04</span>
+                    <h3>Launch</h3>
+                    <p>
+                        Your completed website is ready to go online.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section class="section contact-section" id="contact">
+
+        <div class="container contact-grid">
+
+            <div>
+
+                <p class="tag">START A PROJECT</p>
+
+                <h2>
+                    Have a website idea?
+                    Let's build it.
+                </h2>
+
+                <p>
+                    Tell us what you need and we will discuss your
+                    website requirements.
+                </p>
+
+
+                <div class="contact-info">
+
+                    <div>
+                        <span>Phone</span>
+                        <a href="tel:+916299649366">
+                            +91 62996 49366
+                        </a>
+                    </div>
+
+
+                    <div>
+                        <span>Studio</span>
+                        <strong>mhdverse web studio</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- FORM -->
+            <form class="contact-form" id="projectForm">
+
+                <label for="name">Your Name</label>
+
+                <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    placeholder="Enter your name"
+                    required
+                >
+
+
+                <label for="phone">Phone Number</label>
+
+                <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    placeholder="Enter your phone number"
+                    required
+                >
+
+
+                <label for="email">Email</label>
+
+                <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    placeholder="Enter your email"
+                >
+
+
+                <label for="websiteType">Website Type</label>
+
+                <select id="websiteType" name="websiteType">
+
+                    <option value="">
+                        Select website type
+                    </option>
+
+                    <option value="Business Website">
+                        Business Website
+                    </option>
+
+                    <option value="Portfolio Website">
+                        Portfolio Website
+                    </option>
+
+                    <option value="Landing Page">
+                        Landing Page
+                    </option>
+
+                    <option value="Custom Website">
+                        Custom Website
+                    </option>
+
+                </select>
+
+
+                <label for="budget">Approximate Budget</label>
+
+                <select id="budget" name="budget">
+
+                    <option value="">
+                        Select budget
+                    </option>
+
+                    <option value="Below ₹5,000">
+                        Below ₹5,000
+                    </option>
+
+                    <option value="₹5,000 - ₹10,000">
+                        ₹5,000 - ₹10,000
+                    </option>
+
+                    <option value="₹10,000 - ₹20,000">
+                        ₹10,000 - ₹20,000
+                    </option>
+
+                    <option value="₹20,000+">
+                        ₹20,000+
+                    </option>
+
+                </select>
+
+
+                <label for="message">Project Details</label>
+
+                <textarea
+                    id="message"
+                    name="message"
+                    rows="5"
+                    placeholder="Tell us about your website..."
+                    required
+                ></textarea>
+
+
+                <button type="submit" class="btn primary full">
+                    Send Project Request
+                </button>
+
+                <p id="formMessage"></p>
+
+            </form>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <div class="container footer-content">
+
+            <div>
+                <strong>mhdverse web studio</strong>
+                <p>
+                    Custom websites for modern businesses and brands.
+                </p>
+            </div>
+
+            <div>
+                <a href="#home">Home</a>
+                <a href="#services">Services</a>
+                <a href="#contact">Contact</a>
+            </div>
+
+        </div>
+
+        <div class="copyright">
+            © <span id="year"></span> mhdverse web studio. All rights reserved.
+        </div>
+
+    </footer>
+
+
+    <script src="app.js"></script>
+
+</body>
+</html>
